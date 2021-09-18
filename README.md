@@ -1,27 +1,70 @@
-# Hack the North 2021
-This is the repository in which the team will be creating the project.
+# Getting Started with Create React App
 
-# Contributing Instructions
-In order to contribute to this project, the following steps must be done in order to do so successfully. Everything that you write has to come through me (i.e a pull request) that can then be reviewed and put into the project. If you have any questions or queries, ask before continuing. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-1. Create a fork of the project.
-1. Clone your fork (your version of the repository) locally.
-3. Navigate into your cloned directory. `cd hack-the-north`
-4. Add the upstream (if it doesn't already exist): `git remote add upstream git@github.com:Toranian/hack-the-north.git`
-5. Get the latest changes: `git pull upstream main`
-6. Create a new branch with a name specific to the issue or feature or bug you will be working on: `git checkout -b yourbranchname`
-7. Write code!
-8. Commit your changes (you may need to `git add .` if you created any new files that need to be tracked).  If your changes resolve a specific [issue on github](https://github.com/Toranian/hack-the-north/issues), then add "Closes #123" to the commit where 123 is the issue number:  
-`git commit -am "Useful description of your changes; Closes #123"`
-9. Make sure your develop branch is up to date again and rebase onto any changes that have been made upstream since you started the branch: `git pull upstream main --rebase`  (this command joins several steps: updating your local develop branch, and then rebasing your current feature branch on top of the updated develop branch)
-10. Push your branch to your fork of the project on github (the first time you do this, it will create the branch on github for you): `git push origin yourbranchname`
-11. Go to your fork of the repository on GitHub (you should see a dropdown allowing you to select your branch)
-12. Select your recently pushed branch and create a pull request (you should see a button for this)
-![image](https://user-images.githubusercontent.com/10604391/125674000-d02eb7a0-b85d-4c8f-b8dd-2b144e274f7d.png)
+## Available Scripts
 
-10. Complete pull request.
-11. Start work on another feature by checking out the develop branch again: `git checkout develop`
-12. Start again at Step 3 and repeat!
+In the project directory, you can run:
 
-# Contributors
-1. Ryan Nicholas Permana (h4ppyturt1e)
+### `yarn start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `yarn test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `yarn build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
