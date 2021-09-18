@@ -25,3 +25,4 @@ In order to contribute to this project, the following steps must be done in orde
 
 # Contributors
 1. Ryan Nicholas Permana (h4ppyturt1e)
+2. Christopher Hadrian Wong (chrishadrian)
