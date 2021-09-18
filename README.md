@@ -22,3 +22,6 @@ In order to contribute to this project, the following steps must be done in orde
 10. Complete pull request.
 11. Start work on another feature by checking out the develop branch again: `git checkout develop`
 12. Start again at Step 3 and repeat!
+
+# Contributors
+1. Ryan Nicholas Permana (h4ppyturt1e)
