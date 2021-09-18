@@ -1,6 +1,11 @@
 # Hack the North 2021
 This is the repository in which the team will be creating the project.
 
+# Install instructions
+1. Make sure that Node.js is installed. To check if it is, type `npm` in your terminal. If you get an error, it's not installed. If you get a bunch of text, it is.
+1. Navigate into your cloned fork of the repository and type `npm install`. This will install all of the required dependencies for React.
+1. To run the project, type `npm start`.
+
 # Contributing Instructions
 In order to contribute to this project, the following steps must be done in order to do so successfully. Everything that you write has to come through me (i.e a pull request) that can then be reviewed and put into the project. If you have any questions or queries, ask before continuing. 
 
