@@ -1,5 +1,5 @@
 # Hack the North 2021
-This is the repository in which the team will be creating the project.
+This project aims to create a healthier work environments for those that spend lots of time on their computers during the day. From reminding you take eye breaks, to making sure you are drinking enough water, Progra-fit is the tool for you.
 
 # Install instructions
 1. Make sure that Node.js is installed. To check if it is, type `npm` in your terminal. If you get an error, it's not installed. If you get a bunch of text, it is.
